@@ -1,10 +1,10 @@
 ## Data Engineering Bootcamp Labs & projects
 <li> 
- <ul> </ul>
+ <ul> 
  Bash
  Python
  Sql
  Spark
  Docker
- </ul>
+  </ul>
  </li> 
